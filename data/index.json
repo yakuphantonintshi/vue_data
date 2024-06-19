@@ -1,0 +1,96 @@
+{
+    "jobTitle": [
+        {
+            "occupation": "web developer"
+        }
+      
+    ],
+    "about":[
+        {
+            "firstName": "Yakupha",
+            "lastName": "Ntonintshi",
+            "age": 21,
+            "gender": "female"
+        }
+    ],
+    "education":[
+        {
+            "degree": "BA majoring in Pyschology",
+            "institution": "Nelson Mandela University",
+            "graduation_year": 2024,
+            "location": "Port Elizabeth Eastern Cape"
+        }
+    ],
+    "experiences":[
+        {
+            "title": "Web Developer Intern",
+            "company": "Life Choices Academy",
+            "location": "Landsdowne Cape Town",
+            "duration": "April 2024 - April 2025"
+        }
+    ],
+    "skills":[
+        {
+            "name": "Javascript",
+            "monthsOfExperience": 2
+        },
+
+        {
+            "name": "HTML",
+            "monthsOfExperience": 5
+        },
+        {
+            "name": "CSS",
+            "monthsOfExperience": 5
+        },
+        {
+            "name": "Delphi",
+            "monthsOfExperience": 36
+        }
+    ],
+    "testimonials":[
+        {
+            "id": 0,
+            "name": "Avuyile Ngcabs",
+            "testimonial": "Yakupha is very good when it comes to these programming languages and she gives out the best."
+        },
+        {
+            "id": 1,
+            "name": "Khanya Wawa",
+            "testimonial": "A wonderful experience from start to finish, love working with her."
+        },
+        {
+            "id": 2,
+            "name": "Avuyile Ngcabs",
+            "testimonial": "Yakupha is very good when it comes to these programming languages and she gives out the best"
+        }
+    ],
+    "projects": [
+        {
+            "id": 3,
+            "projectName": "calculator",
+            "calculator_link": "https://javascript-calc-psi.vercel.app/"
+        },
+        {
+            "id": 4,
+            "projectName": "keyboard",
+            "calculator_link": "https://github.com/yakuphantonintshi/Keyboard.git"
+
+        },
+        {
+            "id": 5,
+            "projectName": "Javascript",
+            "calculator_link": "https://javascript-project-beta.vercel.app/"
+        },
+        {
+            "id": 3,
+            "projectName": "BMIcalculator",
+            "calculator_link": "https://bm-icalculator-phiu.vercel.app/"
+        },
+        {
+            "id": 3,
+            "projectName": "temp_converter",
+            "calculator_link": "https://temp-converter-j6e2.vercel.app/"
+        }
+    ]
+}
